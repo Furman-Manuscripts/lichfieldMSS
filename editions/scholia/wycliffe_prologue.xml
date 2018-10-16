@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prologue to Matthew, Wycliffe NT, Lichfield Cathedral</title>
+                <editor>Leah Elder</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from the MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="10">
+            <text n="msB">
+                <body>
+                    <div n="prologue" type="chapter">
+                        <p> Matheu that was of judee as he is set firs te in ordre of
+                            the gospeleris; so he wro ot firste the gospel in judee /
+                            and fro the offis of a tolgaderere he was clepis to god /
+                            wha ne this matheu hadde pchid firste the gos pel in judee,
+                            and wolde go to hethene men; he wroot firste the gospel in
+                            ebreu, and lefte it to mynde to cristen men of the jewis,
+                            fro whiche he departide bodili / for as it was nedeful, that
+                            the gospel were prechid to the confermynge of feith; so it
+                            was ne deful, that it were writen also aȝen ere tikes /
+                            thour many men han write the gos pel; foure oneli tht is,
+                            matheu, mark, luyk and joon, han the witnessyng of auto rite
+                            / for thei tellen the feith of the trinite; bi foure partis
+                            of the world / and thei ben as foure wheeles in the foure
+                            horsid carte of the lord; that berith hi aboute bi pre chyng
+                            of the gospel / and mankynde that was slayn bi foure dethis;
+                            schulde be <gap reason="illegible"/> kened bi the prechynge
+                            of hem/ and thfor the gospels of othe writeris felden dou,
+                            and ben not resseyued; for the lord nolde that the forseid
+                            noubre were distried, for the vertu of sacrament / Also the
+                            foure gospe leris ben undurstonden bi foure figuris of
+                            gostli pryuytee / matheu is undurston den bi man; for he
+                            dwellith principali a boute the manheed of crist / mark is
+                            undur stonden bi aliou; for he tretith of crist risynge
+                            aȝen/ luyk is undurstonden bi a calf; and tretith of
+                            presthood/ Joon is undur stonden bi an egle; and writith
+                            hizlier the sa cramentis eith hooli puytees of the godhed /
+                            forsothe crist whom these gospeleris discri uen; was a man
+                            boren of the virgyn / he was a calf, in offryng eith diynge
+                            on the cross / he was a liou; in risyng aȝen/ and he was an
+                            egle in assenciou / eith the manheed of crist is signefied
+                            in man<add>y</add> / presthood is signefied in
+                            the calf, rewme is signefied in the liou; and the sacrament
+                            of godhed i the egle / that is, bi these foure beestis it is
+                            de clarid; that jhu crist is god and ma kyng and prest /
+                        </p>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
