@@ -24,15 +24,15 @@
         </div>
 
         <div n="2" type="verse">
-          <p> Abracham autem genuit Isac ; Isac autem genuit Iacob ; Iacob autem genuit Iudam et
+          <p> Abracham autem genuit Isac ; Isac autem genuit Iacob ; Iacob autem· genuit Iudam et
             fratres eius ; </p>
         </div>
         <div n="3" type="verse">
-          <p> Iudas autem genuit Fhares et Zaram de Thamar ; Fares autem Esrom ; Esrom autem
+          <p> Iudas autem· genuit Fhares et Zaram de Thamar ; Fares autem <add place="margin">genuit</add> Esrom ; Esrom autem
             genuit Aram ; </p>
         </div>
         <div n="4" type="verse">
-          <p> Aras autem genuit Aminadab ; Aminadab autem genuit Nason ; Nasson autem genuit Salmon ;
+          <p> Aras autem genuit Aminadab ; Aminadab autem· genuit Nason ; Nasson autem genuit Salmon ;
           </p>
         </div>
         <div n="5" type="verse">
@@ -40,10 +40,10 @@
             Iesse ; Iesse autem genuit Dauid regem ; </p>
         </div>
         <div n="6" type="verse">
-          <p> Dauid autem genuit Salamonem ex ea quae fuit Uriae </p>
+          <p> Dauid autem genuit Salamonem· exea quae fuit Uriae </p>
         </div>
         <div n="7" type="verse">
-          <p> Salamonem autem genuit Robuas ; Robuas autem genuit Abiud ; Abiud autem genuit Assaph
+          <p> Salamonem autem genuit <w>Robu<add place="margin">as</add></w> <add place="margin">;</add> Robuas autem genuit Abiud ; Abiud autem genuit Assaph
             ; </p>
         </div>
         <div n="8" type="verse">
@@ -55,11 +55,11 @@
           </p>
         </div>
         <div n="10" type="verse">
-          <p> Ezechias autem genuit <w>Mannes<add place="">sen</add></w> Mannasses autem genuit Amos ; Amos autem genuit Iosiam ;
+          <p> Ezechias autem genuit <w>Mannes<add place="margin">sen</add></w> Mannasses autem genuit Amos ; Amos autem genuit Iosiam ;
           </p>
         </div>
         <div n="11" type="verse">
-          <p> Iosias autem genuit Iechoniam ; et fratres eius in transmigrationem Babilonis ; </p>
+          <p> Iosias autem genuit Iechoniam ; et fratres eius· intransmigrationem Babilonis ; </p>
         </div>
         <div n="12" type="verse">
           <p> et post transmigrationem Babiloniae Iechonias autem genuit Salathiel ; Salathiel
@@ -84,20 +84,20 @@
           <p> omnes ergo generationes oun Abracham </p>
         </div>
         <div n="18" type="verse">
-          <p> cum esset oispansata mater eius Maria Ioseph ante quam convenirent inventa est in
-            utero habens de Spu Sco </p>
+          <p> disponsata mater eius Maria Ioseph ante quam conuenirent inuenta est in
+            utero habens de <choice><abbr>Spu</abbr><expan>spiritu</expan></choice> <choice><abbr>Sco</abbr><expan>sancto</expan></choice> </p>
         </div>
         <div n="19" type="verse">
-          <p> Ioseph autem vir eius cum esset iustus et nolet eam traducere voluit occulte dimittere
+          <p> Ioseph autem uir eius cum esset homo iustus et <choice><sic>let></sic><corr>nolet</corr></choice> eam traducere uoluit occulte dimittere
             eam ; </p>
         </div>
         <div n="20" type="verse">
-          <p> haec autem eo cogitante ecce angelus Dni insomnis apparuit ei dicens Ioseph fili David
-            noli timere accipere Mariam coiugem tuam quod enim ex ea nasceretur de Spu Sco ; </p>
+          <p> haec autem eo cogitante ecce angelus <choice><abbr>Dni</abbr><expan>domini</expan></choice> insomnis apparuit ei dicens Ioseph fili Dauid
+            noli timere accipere Mariam coiugem tuam quod enim exea nasceretur de <choice><abbr>Spu</abbr><expan>spiritu</expan></choice> <choice><abbr>Sco</abbr><expan>sancto</expan></choice> ; </p>
         </div>
         <div n="21" type="verse">
-          <p> pariet autem filium et vocabis nomen eius Ihm ; ipse enim salvum faciet populum suum a
-            peccatis eorum ; </p>
+          <p> pariet autem filium et uocabis nomen eius <choice><abbr>Ihm</abbr><expan>Iesum</expan></choice> ; ipse enim saluum faciet populum suum
+            apeccatis eorum ; </p>
         </div>
         <div n="22" type="verse">
           <p> hoc autem totum factum est ut adinpleretur quod dictum est a Dno pereseiam
